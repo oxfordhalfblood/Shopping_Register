@@ -6,8 +6,7 @@ C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
-
- */  
+ 
 
 import java.util.Scanner;
 import java.io.*;
