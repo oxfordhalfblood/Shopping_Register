@@ -1,10 +1,5 @@
 
-/*
- * CSIT111 Assignment 3 
- * Student name:   Brody Brown
- * Student user ID:  bb879 
- * Student number:  6116310
- */  
+
 
 import java.util.Scanner;
 import java.io.*;
